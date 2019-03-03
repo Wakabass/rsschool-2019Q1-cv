@@ -1,17 +1,17 @@
-1. Яна Трошко
+1. Яна Трошко <br>
 ---
-2. **80292350094**, **invisible_dream@mail.ru**
+2. **80292350094**, **invisible_dream@mail.ru** <br>
 ---
 3. Постоянно обучаюсь. Прошла несколько курсов. Среди них: Тестирование ПО, Разработка веб–сайтов с использованием HTML, CSS и JavaScript. Окончив курс "Front-end разработки" Образовательного центра парка высоких технологий, поняла, что одной верстки недостаточно. Начала интересоваться JavaScript. В своей работе использую HTML5, CSS3, JS, Photoshop. Имею опыт решения проблем, обучала работе новых сотрудников. Обладаю навыками работы с возражениями. Готова работать в команде и не отступать перед трудностями. Есть огромное желание работать и развиваться. Умею находить общий язык с людьми в коллективе. <br>
 
 
 ---
-4. _Front-end_: HTML, CSS3, PostCSS, JavaScript, Gulp, Prepros, Pug, Git, npm, yarn, SASS / SCSS, JQuery, Bootstrap / Foundation, JSON, local storage, BEM, flexbox, grids, nunjucks
+4. _Front-end_: HTML, CSS3, PostCSS, JavaScript, Gulp, Prepros, Pug, Git, npm, yarn, SASS / SCSS, JQuery, Bootstrap / Foundation, JSON, local storage, BEM, flexbox, grids, nunjucks <br>
 _Other_: Photoshop, Illustrator <br>
 
 
 ---
-5. Изменение стиля 
+5. Изменение стиля <br>
 ```Javascript
 <p id="p1">Привет мир!</p>
 <p id="p2">Привет мир!</p>
@@ -22,6 +22,7 @@ document.getElementById("p2").style.fontSize="larger";
 </script>
 <p>Во втором пункте, изменён стиль скриптом.</p> 
 ```
+<br>
 ---
 6. Опыт работы HTML-верстальщиком
 * Верстка HTML-форм для порталов
@@ -31,7 +32,7 @@ document.getElementById("p2").style.fontSize="larger";
 * Разработка , интеграция и оптимизация кода на cms
 * участие (Front-end) в командной разработке проекта по организации Оператора фискальных данных
 * проведение работ по настройке домена (в рамках хостинга)
-
+<br>
 ---
 #### English
 
