@@ -7,10 +7,11 @@
 4. _Front-end_: HTML, CSS3, PostCSS, JavaScript, Gulp, Prepros, Pug, Git, npm, yarn, SASS / SCSS, JQuery, Bootstrap / Foundation, JSON, local storage, BEM, flexbox, grids, nunjucks <br>
 _Other_: Photoshop, Illustrator <br>
 ---
+
 Пример кода <br>
 <br>
 
-`` `
+```Javascript
 <p id="p1">Привет мир!</p>
 <p id="p2">Привет мир!</p>
 <script>
@@ -19,8 +20,9 @@ document.getElementById("p2").style.fontFamily="Arial";
 document.getElementById("p2").style.fontSize="larger";
 </script>
 <p>Во втором пункте, изменён стиль скриптом.</p> 
-`` `
+```
 ---
+<br>
 Опыт работы HTML-верстальщиком
 * Верстка HTML-форм для порталов
 * Верстка web-страниц (+ реализация сценариев на JavaScript с (JQuery))
