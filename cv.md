@@ -30,7 +30,8 @@ document.getElementById("p2").style.fontSize="larger";
 
 ---
 7. English
-   | Listening     | Reading       | Speaking  |
-   | ------------- |:-------------:| ---------:|
-   | A2            | A2            | A2        |
+| Listening     | Reading       | Speaking  |
+| ------------- |:-------------:| ---------:|
+| A2            | A2            | A2        |
+
 
