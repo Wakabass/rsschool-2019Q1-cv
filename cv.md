@@ -29,9 +29,9 @@ document.getElementById("p2").style.fontSize="larger";
 * проведение работ по настройке домена (в рамках хостинга)
 
 ---
-7. English </br>
-Listening | Reading | Speaking <br>
---- | --- | --- <br>
-A2 | A2  | A2 <br>
+7.English
+Listening | Reading | Speaking
+--- | --- | ---
+A2 | A2  | A2
 
 
