@@ -9,7 +9,8 @@ _Other_: Photoshop, Illustrator <br>
 ---
 Пример кода <br>
 <br>
-```Javascript
+
+`` `
 <p id="p1">Привет мир!</p>
 <p id="p2">Привет мир!</p>
 <script>
@@ -18,9 +19,7 @@ document.getElementById("p2").style.fontFamily="Arial";
 document.getElementById("p2").style.fontSize="larger";
 </script>
 <p>Во втором пункте, изменён стиль скриптом.</p> 
-```
-<br>
-<br>
+`` `
 ---
 Опыт работы HTML-верстальщиком
 * Верстка HTML-форм для порталов
@@ -29,8 +28,9 @@ document.getElementById("p2").style.fontSize="larger";
 * Оптимизация кода и верстки существующих проектов
 * Разработка , интеграция и оптимизация кода на cms
 * участие (Front-end) в командной разработке проекта по организации Оператора фискальных данных
-* проведение работ по настройке домена (в рамках хостинга)<br>
+* проведение работ по настройке домена (в рамках хостинга)
 ---
+<br>
 #### English
 
 Listening | Reading | Speaking
