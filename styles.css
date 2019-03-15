@@ -17,11 +17,9 @@ img { border: 0; max-width: 100%; }
 a { color: #5582d6; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-
 #all-content { margin-left: auto; margin-right: auto; padding: 20px 40px; padding-top: 35px; background: #fff; min-width: 260px; max-width: 900px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
 
 header { width: 100%; }
-
 
 #info { float: left; margin-bottom: 12px; }
 #photo { float: right; }
@@ -37,10 +35,8 @@ border: 1px solid #ccc;
 padding: 5px; 
 }
 
-
 #skills-left { display: block; float: left; margin-right: 30px; }
 #skills-right { display: block; float: left;}
-
 
 .clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 .clearfix { display: inline-block; }
